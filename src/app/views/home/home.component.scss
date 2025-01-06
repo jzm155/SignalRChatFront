@@ -48,11 +48,19 @@
 .message.me {
   background-color: lightgreen;
   margin-right: 50px;
+  min-width: 100px;
+  max-width: 40%;
+  overflow-x: auto;
+  overflow-y: auto;
 }
 
 .message.other {
   background-color: aliceblue;
   margin-left: 50px;
+  min-width: 100px;
+  max-width: 40%;
+  overflow-x: auto;
+  overflow-y: auto;
 }
 
 .message.admin {
@@ -60,7 +68,7 @@
 }
 
 .user-name {
-  font-weight: bold;
+  font-size: 16px;
 }
 
 .footer {
@@ -80,4 +88,47 @@
 
 .input{
     width:90%
+}
+
+.top-bar {
+  display: flex;
+  position: sticky;
+  align-items: center;
+  justify-content: space-between;
+  width:100%;
+}
+
+.loginname {
+  text-align: right;
+}
+.send-date {
+  font-size:12px;
+}
+.send-hours {
+  text-align: right;
+  font-size:12px;
+}
+
+.message-line.dayDate {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 15px 0 10px 0;
+}
+
+.dayDate {
+  width: 100%;
+}
+
+.line {
+  flex-grow: 1;
+  border-top: 1px solid black; /* Linha horizontal */
+  margin: 0 10px; /* Espaçamento ao redor do valor */
+  width:100%
+}
+
+.value {
+  white-space: nowrap; /* Garante que o valor não quebre linha */
+  font-weight: bold; /* Estilize conforme desejado */
 }

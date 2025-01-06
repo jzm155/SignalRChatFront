@@ -7,7 +7,9 @@ import { NameDialogComponent } from '../../shared/name-dialog/name-dialog.compon
 
 interface Message{
   username: string,
-  text: string
+  text: string,
+  sendDate: string,
+  sendHours: string
 }
 
 @Component({
@@ -46,9 +48,12 @@ export class HomeComponent implements OnInit {
 
   startConnection() {
     this.connection.on("newMessage", (username: string, text: string) => {
+      var dateNow = new Date();
       this.messages.push({
         text: text,
-        username: username
+        username: username,
+        sendDate: ("0" + dateNow.getDate()).slice(-2) + '/' + ("0" + (dateNow.getMonth() + 1)).slice(-2) + '/' + dateNow.getFullYear(),
+        sendHours: ("0" + dateNow.getHours()).slice(-2) + ':' + ("0" + dateNow.getMinutes()).slice(-2)
       })
     });
 

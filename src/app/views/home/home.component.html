@@ -1,19 +1,27 @@
 <div class="container">
   <mat-toolbar color="primary">
-    <span>Signal Chat</span>
+    <div class="top-bar">
+      <span>Signal Chat</span>
+      <span class="loginname" *ngIf="username != ''"><b>{{username}}</b></span>
+    </div>
   </mat-toolbar>
   <div class="messages">
     <ng-template ngFor let-message [ngForOf]="messages" let-i="index">
+      <div *ngIf="i == 0 || message.sendDate != messages[i-1].sendDate" class="message-line dayDate">
+          <span class="line"></span><div class="value">{{message.sendDate}}</div><span class="line"></span>
+      </div>
       <div *ngIf="message.username == username" class="message-line me">
         <div class="message me">
-          <div class="user-name">{{message.username}}</div>
-          <div>{{message.text}}</div>
+          <div class="user-name"><b>{{message.username}} </b>  <font class="send-date"> {{message.sendDate}}</font></div>
+          <div class="user-text">{{message.text}}</div>
+          <div class="send-hours">{{message.sendHours}}</div>
         </div>
       </div>
       <div *ngIf="message.username != username && message.username != ''" class="message-line other">
         <div class="message other">
-          <div class="user-name">{{message.username}}</div>
-          <div>{{message.text}}</div>
+          <div class="user-name"><b>{{message.username}} </b>  <font class="send-date"> {{message.sendDate}}</font></div>
+          <div class="user-text">{{message.text}}</div>
+          <div class="send-hours">{{message.sendHours}}</div>
         </div>
       </div>
       <div *ngIf="message.username == ''" class="message-line admin">

@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\views\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\shared\\name-dialog\\name-dialog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\name-dialog\\name-dialog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\shared\\name-dialog\\name-dialog.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\name-dialog\\name-dialog.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\views\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\views\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\views\\home\\home.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\shared\\name-dialog\\name-dialog.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\name-dialog\\name-dialog.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\shared\\name-dialog\\name-dialog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\name-dialog\\name-dialog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "name-dialog.component.html",
               "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\shared\\name-dialog\\name-dialog.component.html",
               "RelativeDocumentMoniker": "src\\app\\shared\\name-dialog\\name-dialog.component.html",
@@ -58,25 +58,23 @@
               "RelativeToolTip": "src\\app\\shared\\name-dialog\\name-dialog.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-31T21:03:38.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T21:03:38.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "name-dialog.component.ts",
               "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\shared\\name-dialog\\name-dialog.component.ts",
               "RelativeDocumentMoniker": "src\\app\\shared\\name-dialog\\name-dialog.component.ts",
               "ToolTip": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\shared\\name-dialog\\name-dialog.component.ts",
               "RelativeToolTip": "src\\app\\shared\\name-dialog\\name-dialog.component.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-12-31T20:43:04.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T20:43:04.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "styles.scss",
               "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\styles.scss",
               "RelativeDocumentMoniker": "src\\styles.scss",
@@ -88,41 +86,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "home.component.scss",
-              "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.scss",
-              "RelativeDocumentMoniker": "src\\app\\views\\home\\home.component.scss",
-              "ToolTip": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.scss",
-              "RelativeToolTip": "src\\app\\views\\home\\home.component.scss",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowDoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-12-31T13:28:19.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "home.component.ts",
-              "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\views\\home\\home.component.ts",
-              "ToolTip": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.ts",
-              "RelativeToolTip": "src\\app\\views\\home\\home.component.ts",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowEAAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-12-30T21:49:38.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "home.component.html",
               "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.html",
               "RelativeDocumentMoniker": "src\\app\\views\\home\\home.component.html",
               "ToolTip": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.html",
               "RelativeToolTip": "src\\app\\views\\home\\home.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-12-30T20:14:20.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.component.scss",
+              "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\views\\home\\home.component.scss",
+              "ToolTip": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.scss",
+              "RelativeToolTip": "src\\app\\views\\home\\home.component.scss",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAH4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-12-31T13:28:19.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\views\\home\\home.component.ts",
+              "ToolTip": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\views\\home\\home.component.ts",
+              "RelativeToolTip": "src\\app\\views\\home\\home.component.ts",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-30T21:49:38.916Z",
               "EditorCaption": ""
             },
             {
@@ -133,14 +130,13 @@
               "RelativeDocumentMoniker": "src\\app\\app.module.ts",
               "ToolTip": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\app.module.ts",
               "RelativeToolTip": "src\\app\\app.module.ts",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwB8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-12-30T20:16:54.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T20:16:54.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "app.component.html",
               "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "src\\app\\app.component.html",
@@ -148,12 +144,11 @@
               "RelativeToolTip": "src\\app\\app.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-30T20:16:12.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T20:16:12.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "app-routing.module.ts",
               "DocumentMoniker": "D:\\Projetos\\SignalRChat\\SignalRChatFront\\signalr-chat-web\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "src\\app\\app-routing.module.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-12-30T20:00:37.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T20:00:37.833Z"
             }
           ]
         }
